@@ -6,7 +6,7 @@ public class TrunkFactory {
             case "宝马":
                 return new BmwTrunk();
             case "奥迪":
-                return new AodiTrunk();
+                return new AudiTrunk();
             default :
                 return null;
         }
